@@ -1,0 +1,7 @@
+.certs
+.keys
+.terraform*
+rdp.tftpl
+terraform.tfstate*
+client_config.ovpn
+
