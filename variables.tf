@@ -27,11 +27,11 @@ variable "ami_linux" {
 }
 
 variable "instance_type_windows" {
-  default = "t2.medium"
+  default = "t2.micro"
 }
 
 variable "instance_type_linux" {
-  default = "t2.medium"
+  default = "t2.micro"
 }
 
 variable "availability_zone" {
